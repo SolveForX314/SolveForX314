@@ -5,7 +5,7 @@
 # About me
 
 
-**SolveForX314/SolveForX314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on ~~your~~ my GitHub profile.
+<!--**SolveForX314/SolveForX314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on ~~your~~ my GitHub profile.-->
 
 Some things about me:
 
