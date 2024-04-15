@@ -12,7 +12,7 @@ Some things about me:
 - 🔭 **I’m currently working on** figuring out how to use this website
 - 🌱 **I’m currently learning** how to develop games in Unity (the 2020 version, not the 2024 version)
 - 💬 **Ask me about:**
-  - my new song I'm planning to release 2024-04-12
+  - my new song I released 2024-04-12
   - fun math-related things [^1]
 - ⚡ **Fun fact:** My current favorite music producer is Similar Outskirts
 
