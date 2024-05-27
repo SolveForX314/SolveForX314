@@ -14,7 +14,7 @@ Some things about me:
 - 💬 **Ask me about:**
   - my new song I released 2024-04-12
   - fun math-related things [^1]
-- ⚡ **Fun fact:** My current favorite music producer is Similar Outskirts
+- ⚡ **Fun fact:** I somehow managed to finish my previous semester of college without getting anything lower than a B
 
 <!--
 - 👯 **I’m looking to collaborate on** ...
